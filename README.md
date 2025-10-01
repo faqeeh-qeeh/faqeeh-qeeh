@@ -18,19 +18,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31zes5zheag5o3jbggm4vmuc63ba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zes5zheag5o3jbggm4vmuc63ba&count=5&unique=false" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/31c7ixugtrl3lqft6dv5kxnloi4m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c7ixugtrl3lqft6dv5kxnloi4m&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
+  
 ###
 
-<!-- <picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faqeeh-qeeh/faqeeh-qeeh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faqeeh-qeeh/faqeeh-qeeh/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faqeeh-qeeh/faqeeh-qeeh/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 ###
 
