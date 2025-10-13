@@ -20,7 +20,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About <a href="#">Me 👋</a>
 
 > Honestly, I’m still not very confident calling myself a programmer because I often rely on AI to help me write code.  
 > But I do understand the fundamentals — the logic always comes from my own mind.  
@@ -43,7 +43,7 @@
 
 ---
 
-### 🎧 What I'm Listening To
+### 🎧 What <a href="#">I,m</a> Listening To
 
 <p align="center">
   <a href="https://open.spotify.com/user/31c7ixugtrl3lqft6dv5kxnloi4m">
@@ -53,46 +53,20 @@
 
 ---
 
-### 💻 I Code With
+### 💻 Tech Stack
 
 <p align="center">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  </a>
-  <img width="12" />
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  </a>
-  <img width="12" />
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  </a>
-  <img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,next,html,css,python,jupyter,mysql,vscode,git,github" />
 </p>
 
 <p align="center">
-  I started learning coding with <b>C++</b> just to grasp the logic and fundamentals.  
-  But my main focus is on <b>PHP 🐘</b> and <b>Python 🐍</b>.
+  I started with <b>C++</b> to learn the logic,  
+  and now focus on <b>PHP 🐘</b> and <b>Python 🐍</b> for real-world projects.
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With <a href="#">Me</a>
 
 <p align="center">
   <a href="https://www.youtube.com/@bluehav214" target="_blank">
