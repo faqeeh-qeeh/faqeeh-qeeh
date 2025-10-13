@@ -1,5 +1,12 @@
-<h1 align="center">👋 Hey there, I'm Faqeeh!</h1>
-<h3 align="center">✨ Student • Learner • Coder ✨</h3>
+<p align="center">
+  <img 
+    src="img/BannerMe.png" 
+    alt="Faqeeh banner" 
+    width="100%" 
+    style="border: 3px solid #ffffffff; border-radius: 10px;" 
+  />
+</p>
+
 
 ---
 
@@ -17,11 +24,22 @@
 
 > Honestly, I’m still not very confident calling myself a programmer because I often rely on AI to help me write code.  
 > But I do understand the fundamentals — the logic always comes from my own mind.  
->
+
+<table>
+<tr style="padding:0;">
+  <td style="border:none; text-align:left; padding-left:0; vertical-align:middle;">
+
 > 💻 Currently learning: **JavaScript**  
 > 🎯 Goal: **To become a successful person**  
 > 🎮 Fun fact: **I’m also a gamer**  
 > ❤️ Favorite subject: **Mathematics (always the “best of the best”)**
+
+  </td>
+  <td align="center" width="100" style="border:none; vertical-align:middle;">
+    <img src="img/hutao-money.gif" alt="Hu Tao gif" width="90" style="border-radius:8px;" />
+  </td>
+</tr>
+</table>
 
 ---
 
