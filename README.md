@@ -3,15 +3,14 @@
     src="img/BannerMe.png" 
     alt="Faqeeh banner" 
     width="100%" 
-    style="border: 3px solid #ffffffff; border-radius: 10px;" 
+    style="border-radius: 10px;" 
   />
 </p>
-
 
 ---
 
 <p align="center">
-  I'm a student from <b>Indonesia 🇮🇩</b>, passionate about technology, coding, and learning new things every day.
+  A high school student from <b>Indonesia 🇮🇩</b> passionate about mathematics, algorithms, and practical software engineering.
 </p>
 
 <p align="center">
@@ -20,33 +19,32 @@
 
 ---
 
-### 🧠 About <a href="#">Me 👋</a>
+### 🧠 About Me
 
-> Honestly, I’m still not very confident calling myself a programmer because I often rely on AI to help me write code.  
-> But I do understand the fundamentals — the logic always comes from my own mind.  
+> I treat modern AI tools as a fast pair programmer and sounding board, but I strongly believe real engineering comes from fundamentals. The algorithmic logic, system architecture, and problem-solving are always grounded in my own understanding.
 
 <table>
-<tr style="padding:0;">
-  <td style="border:none; text-align:left; padding-left:0; vertical-align:middle;">
-
-> 💻 Currently learning: **JavaScript**  
-> 🎯 Goal: **To become a successful person**  
-> 🎮 Fun fact: **I’m also a gamer**  
-> ❤️ Favorite subject: **Mathematics (always the “best of the best”)**
-
-  </td>
-  <td align="center" width="100" style="border:none; vertical-align:middle;">
-    <img src="img/hutao-money.gif" alt="Hu Tao gif" width="90" style="border-radius:8px;" />
-  </td>
-</tr>
+  <tr>
+    <td valign="middle">
+      <ul>
+        <li>🌱 <b>Currently Learning:</b> Exploring JS frameworks & deepening backend architecture</li>
+        <li>🎯 <b>Current Goal:</b> Build solid real-world projects & sharpen CS fundamentals</li>
+        <li>📐 <b>Favorite Subject:</b> Mathematics — hands down my all-time favorite; I genuinely love breaking down proofs, patterns, and complex logical problems.</li>
+        <li>🎮 <b>Fun Fact:</b> I'm also a gamer </li>
+      </ul>
+    </td>
+    <td align="center" width="120" valign="middle">
+      <img src="img/hutao-money.gif" alt="Hu Tao gif" width="95" style="border-radius: 8px;" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🎧 What <a href="#">I,m</a> Listening To
+### 🎧 What I'm Listening To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31c7ixugtrl3lqft6dv5kxnloi4m">
+  <a href="https://open.spotify.com/user/31c7ixugtrl3lqft6dv5kxnloi4m" target="_blank" rel="noreferrer">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c7ixugtrl3lqft6dv5kxnloi4m&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </p>
@@ -56,30 +54,35 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,next,html,css,python,jupyter,mysql,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,python,mysql,postgres,vscode,git,github" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  I started with <b>C++</b> to learn the logic,  
-  and now focus on <b>PHP 🐘</b> and <b>Python 🐍</b> for real-world projects.
+  Started with <b>C++</b> to build algorithmic discipline,  
+  solid with core <b>JavaScript</b>, and building practical projects with <b>PHP 🐘</b> and <b>Python 🐍</b>.
 </p>
 
 ---
 
-### 🌐 Connect With <a href="#">Me</a>
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@bluehav214" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
+  <a href="https://www.youtube.com/@bluehav214" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/faqeeh30/profilecard/?igsh=MWlveDVycXhiem9uaw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  &nbsp;
+  <a href="https://www.instagram.com/faqeeh30/profilecard/?igsh=MWlveDVycXhiem9uaw==" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@faqeeh30" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="40" height="40" alt="TikTok" />
+  &nbsp;
+  <a href="https://www.tiktok.com/@faqeeh30" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to connect or check out my projects!* 😄
+<p align="center">
+  ⭐️ <i>Thanks for visiting my profile! Feel free to explore my repositories or say hi.</i>
+</p>
+
